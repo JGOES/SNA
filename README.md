@@ -1,8 +1,8 @@
 # SNA
-===
 
 ## Social Networking Application
 *Codurance Home Coding Assignment*
+===
 
 Compile executable using provided makefile
 ```bash
